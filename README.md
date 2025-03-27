@@ -4,7 +4,7 @@ This project uses **GitHub Actions** to automatically check code for errors with
 
 ## What I Did:
 
-- Set up a repo on GitHub.
-- Added **Super-Linter** to check code automatically.
-- Created a **"dev" branch** for work.
-- Did a **code review** with a teammate.
+1. Set up a repository on GitHub.
+2.  Added **Super-Linter** to automatically check code.
+3.  Created a **"dev" branch** for development.
+4. Conducted a **code review** with a teammate.
